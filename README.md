@@ -8,3 +8,11 @@ let myNumber = 4
 let mySecondNumber = myNumber + 7
 let myThirdNumber = myNumber
 ```
+
+## functions available
+```
+sin(x)
+cos(x)
+eval(x)
+graph(x)
+```
