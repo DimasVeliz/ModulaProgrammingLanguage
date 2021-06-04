@@ -15,12 +15,16 @@ let myThirdNumber = myNumber
 *
 /
 ```
-## functions available
+## functions built in or available
 ```
 sin(x)
 cos(x)
 eval(x)
 graph(x)
+max(x,y)
+min(x,y)
+sqrt(x)
+pow(x,y)
 ```
 
 ## function definition
@@ -28,4 +32,5 @@ graph(x)
 ```
 def myFunction(x) = 4*sin(x)
 def mySecondFunction(x)= (myFunction(x) +1)/3
+def myThirdFunction(x,y) = 2*pow(y,y)+x
 ```
